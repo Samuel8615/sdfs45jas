@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122028616.jpg",(主）C1[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2014/1014/20141014100423640.jpg",(主）湖卫[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123530799.jpg",(主）江卫[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123051441.jpg",(主）浙卫[1920*1080]
+http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122845956.jpg",(主）东卫[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
